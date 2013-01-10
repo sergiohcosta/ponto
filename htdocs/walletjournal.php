@@ -16,7 +16,6 @@ if($preset!="ratter" && isset($p['accountKey']) && $p['accountKey']>=1000 && $p[
     $accountKey = $p['accountKey'];
 
 // Intervalo de datas
-
 $dateIni = "";
 $where_dateIni = "";
 $split_timeIni = "";
@@ -82,7 +81,6 @@ $optWalletDivisions = "";
 while($linha = mysql_fetch_assoc($res))
 {
     $arrWalletDivisions[$linha['accountKey']] = "'" . $linha['description'] . "'";
-    
     $optWalletDivisions .= "<option";
     if($accountKey==$linha['accountKey']) $optWalletDivisions .= " selected";
     $optWalletDivisions .= " value='";
@@ -95,7 +93,7 @@ while($linha = mysql_fetch_assoc($res))
 // =================
 // reftypes: SQL, ARRAY E OPTIONS
 // =================
-print_r($p);
+
 $refType="";
 if(isset($p['refType']) && is_numeric($p['refType']))
 {
@@ -149,20 +147,13 @@ while($linha = mysql_fetch_assoc($res))
     $tr .= "<tr>\r\n";
     
     $tr .= "<td>" . $linha['date'] ."</td>\r\n";
-    // $tr .= "<td>" . $linha['refID'] ."</td>\r\n";
     $tr .= "<td>" . $linha['refTypeName'] ."</td>\r\n";
     $tr .= "<td>" . $linha['ownerName1'] ."</td>\r\n";
     $tr .= "<td>" . $linha['ownerName2'] ."</td>\r\n";
-    //$tr .= "<td>" . $linha['argName1'] ."</td>\r\n";
-    //$tr .= "<td>" . $linha['argID1'] ."</td>\r\n";
-    //$tr .= "<td>" . number_format($linha['amount'], 2, ",", ".")  ."</td>\r\n";
     
     $tr .= "<td>" . number_format($linha['amount'],2,".",",")  ."</td>\r\n";
-    //$tr .= "<td>" . $linha['amount']  ."</td>\r\n";
     
-//$tr .= "<td>" . number_format($linha['balance'], 2, ",", ".") ."</td>\r\n";
     $tr .= "<td>" . number_format($linha['balance'],2,".",",") ."</td>\r\n";
-    //$tr .= "<td>" . $linha['reason'] . "</td>\r\n";
        
     $tr .= "</tr>\r\n";
     
@@ -176,12 +167,9 @@ $thead_all = "<thead>\r\n";
 $thead_all .= "<tr>\r\n";
 
 $thead_all .= "<th>Date</th>\r\n";
-//$thead_all .= "<th>refID</th>\r\n";
 $thead_all .= "<th>Tipo</th>\r\n";
 $thead_all .= "<th>Origem</th>\r\n";
 $thead_all .= "<th>Destino</th>\r\n";
-//$thead_all .= "<th>argName1</th>\r\n";
-//$thead_all .= "<th>argID1</th>\r\n";
 $thead_all .= "<th>Amount</th>\r\n";
 $thead_all .= "<th>Balance</th>\r\n";
 
@@ -234,54 +222,6 @@ $thead_owner1 .= "<th>Amount</th>\r\n";
 
 $thead_owner1 .= "</tr>\r\n";
 $thead_owner1 .= "</thead>\r\n";
-
-
-
-// ==========================
-// GERACAO DA TABELA OWNER2
-// ==========================
-
-$query  = "SELECT ownerName2, sum(amount) as amount";
-$query .= " FROM walletjournal wj";
-$query .= " WHERE accountKey = $accountKey";
-$query .= $where_refTypeID;
-$query .= $where_dateIni;
-$query .= $where_dateFim;
-$query .= $where_piloto;
-$query .= " GROUP BY ownerName2";
-
-$res = mysql_query($query,$conn) or die(mysql_error());
-
-$tr = "";
-
-$a=0;
-$total_owner2 = 0;
-
-while($linha = mysql_fetch_assoc($res))
-{
-    $tr .= "<tr>\r\n";
-    
-    $tr .= "<td>" . $linha['ownerName2'] ."</td>\r\n";
-    $tr .= "<td>" . number_format($linha['amount'],2,",.",",") . "</td>\r\n";
-      
-    $tr .= "</tr>\r\n";
-    
-    $total_owner2 += $linha['amount'];
-    $a++;
-}
-
-$tbody_owner2 = "<tbody>\r\n" . $tr . "</tbody>\r\n";
-
-$thead_owner2 = "<thead>\r\n";
-$thead_owner2 .= "<tr>\r\n";
-
-$thead_owner2 .= "<th>Name</th>\r\n";
-$thead_owner2 .= "<th>Amount</th>\r\n";
-
-
-$thead_owner2 .= "</tr>\r\n";
-$thead_owner2 .= "</thead>\r\n";
-
 
 ?>
 
@@ -371,13 +311,7 @@ $(document).ready(function(){
 
     $( "#piloto" ).autocomplete({
         source: "walletjournal_getpilots.php",
-        //source: ["","5EAN","Aierun Sun","ANK AC2","AyrFilipe","Bianca Souza","biracopus","Blade Wancer","Bob Heineken","BrnooX","Caldari Navy","CONCORD","Corporate Police Force","DarminghBR","DiWulfe","djomn mataloco","Dosh Moni","Earl van Gank","Ebura Hyotani","Einuard Erkeber","En Garde Management","evesnight","extraminador","Falanjer","Feeerz Olacar","felipelopes","Galahad Sagramor","GauchoDoSul","Grovelion","Guaianazes","GuilhermeMelo","Henrik Vanger","Ihala Ozunailen","Inogainen Shinatsu","Jammed Undies","Jonatas Alexandre","Kimuruola Sitsudan","Lanthes","Lee Xung","Lo bianco","Luke Skymining","MagnusIIIBR","MagnusIIITR","MineradorDoSul","Morgana Tsukiyo","Munashe","Mythus Supremus","Nehrnah Gorouyar","Noreena Somtaaw","Penadinho II","Pensador","Ponto Final","Qwed Gouda","Rage and Terror","rodrivaz","Ryan Steel","Sarum Family","Secure Commerce Commission","SHAAKR","SITHDAR","teresinense","Tick85","VisionCloud","XxNightCellearxX","Yuna Storm","Yuri Tsukimoto","Zambers","Zylla Maria"],
         minLength: 2
-        //select: function( event, ui ) {
-        //        log( ui.item ?
-        //                "Selected: " + ui.item.value + " aka " + ui.item.id :
-        //                "Nothing selected, input was " + this.value );
-        //}
     });
 
 });
@@ -407,40 +341,47 @@ span.deleteicon input {
     padding-right: 16px;
 }
 
+.divField {
+    width: 500px;
+    border: 1px solid black;
+}
 
 </style>
  
 <form action="<?= $_SERVER['SCRIPT_NAME']; ?>" method="post" name="filter">
 
+<div class="divField">
 <label for="preset">Presets</label>
 <select name="preset">
     <option value=""></option>
     <option value="ratter">Ratter</option>
 </select>
+</div>
 
+<div class="divField">
 <label for="accountKey">Wallet</label>
 <select name="accountKey"><option value=""></option><?= $optWalletDivisions?></select>
+</div>
 
-<br>
-
+<div class="divField">
 <label for="refType">Tipo</label>
 <select name="refType"><option value=""></option><?= $optRefTypes?></select>
+</div>
 
-<br>
-
+<div class="divField">
 <label for="dateIni">Data Início</label>
 <input type="text" id="dateIni" name="dateIni" value="<?= $dateIni?>">
+</div>
 
-<br>
-
+<div class="divField">
 <label for="dateIni">Data Fim</label>
 <input type="text" id="dateFim" name="dateFim" value="<?= $dateFim?>">
+</div>
 
-<br>
-
+<div class="divField">
 <label for="piloto">Piloto</label>
 <input type="text" name="piloto" id="piloto" value="<?= $piloto?>">
-
+</div>
 
 <input type="submit" value="Vai!">
 </form>
@@ -457,7 +398,3 @@ span.deleteicon input {
     <?= $tbody_owner1?>
 </table>
 
-<table id="tableOwner2" class="tablesorter" style="width: 350px">
-    <?= $thead_owner2?>    
-    <?= $tbody_owner2?>
-</table>

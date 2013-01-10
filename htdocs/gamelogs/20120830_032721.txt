@@ -1,6 +1,0 @@
-------------------------------------------------------------
-  Gamelog
-  Listener: Noreena Somtaaw
-  Session Started: 2012.08.30 03:27:21
-------------------------------------------------------------
-[ 2012.08.30 03:27:25 ] (notify) Your cloaking systems are unable to activate due to your ship being within 2000 meters of the nearby Control Tower.

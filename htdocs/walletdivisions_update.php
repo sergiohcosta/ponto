@@ -1,31 +1,28 @@
 <?php
+/*
+ * 
+ * walletdivisions_update.php
+ * 
+ * funcao: consultar a API da corporacao para atualizar o nome das abas da wallet da referida corporacao
+ * 
+ */
+
+$keyID = "1551088";
+$vCode = "VSkl9LTuwvE9G1WzP4HQJ6oUdNyDJ9DbC9YNUXF6YZHVmIDoNZLR7gML3Qc2dCth";
 
 $conn = mysql_connect("localhost","root") or die(mysql_error());
 mysql_select_db('eve',$conn) or die(mysql_error());
 
-$url_online = "http://api.eveonline.com/eve/CorporationSheet.xml.aspx";
+$url_online = "http://api.eveonline.com/corp/CorporationSheet.xml.aspx&keyID=$keyID&vCode=$vCode";
 $url_offline = "xml/CorporationSheet.xml";
+
+$url = $url_offline;
+$url = $url_online;
 
 //if(!$xml = simplexml_load_file($url_online))
 //    $xml = simplexml_load_file($url_offline);
 
-$xml = simplexml_load_file($url_offline);
-
-
-// So processar a API caso o cache ja tenha expirado
-// esta logica precisa ser acertada, nao funciona deste jeito
-
-/*
-
-$cache = $xml->cachedUntil;
-$objCache = new DateTime($cache);
-$objData = new DateTime();
-$diff = $objData->diff($objCache);
-$tot = ($diff->s) + ($diff->i*60) + ($diff->h*3600) + ($diff->d*86400) + ($diff->m*2592000) + ($diff->y*31104000);
-
- if($tot>=0) die("Sem necessidade de atualizacao da base. Prox atualizacao: $cache");
- 
- */
+$xml = simplexml_load_file($url);
 
 $a=0;$affected=0;
 
