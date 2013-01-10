@@ -1,0 +1,7 @@
+------------------------------------------------------------
+  Gamelog
+  Listener: Noreena Somtaaw
+  Session Started: 2012.08.30 03:28:16
+------------------------------------------------------------
+[ 2012.08.30 03:31:39 ] (notify) Approaching KB-U56
+[ 2012.08.30 03:31:54 ] (None) Jumping to KH0Z-0 in KB-U56 solar system

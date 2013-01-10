@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eveapi version="2">
+  <currentTime>2012-08-29 15:14:52</currentTime>
+  <result>
+    <corporationID>1004439921</corporationID>
+    <corporationName>Ponto Final</corporationName>
+    <ticker>PONTO</ticker>
+    <ceoID>727503484</ceoID>
+    <ceoName>BrnooX</ceoName>
+    <stationID>60015065</stationID>
+    <stationName>Sosala IV - 24th Imperial Crusade Logistic Support</stationName>
+    <description>&lt;font size="12" color="#bfffffff"&gt;Corporação Luso-Brasileira de PVP&lt;br&gt;&lt;br&gt;Recruitment status: OPEN (APENAS POR INDICAÇÃO NO MOMENTO)&lt;br&gt;Corporação fundada com princípios de amizade, companheirismo e desenvolvimento. &lt;br&gt;Membros Brasileiros e Portugueses.&lt;br&gt;Treinamos novatos para sobrevivência de Null Sec.&lt;br&gt;Temos suporte de logística ate o High Sec.&lt;br&gt;Pvp diário, Home Defense, roamings esporádicos.&lt;br&gt;Grande oportunidade para mineradores e caçadores de banzo estelar. Corporação ativa.&lt;br&gt;&lt;br&gt;Recruiters: &lt;/font&gt;&lt;font size="12" color="#ffffa600"&gt;&lt;loc&gt;&lt;a href="showinfo:1374//727503484"&gt;BrnooX&lt;/a&gt;&lt;/loc&gt;&lt;/font&gt;&lt;font size="12" color="#bfffffff"&gt; &lt;/font&gt;&lt;font size="12" color="#ffffa600"&gt;&lt;loc&gt;&lt;a href="showinfo:1375//90466128"&gt;Henrik Vange&lt;/loc&gt;r&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;font size="12" color="#bfffffff"&gt;Diplomat: &lt;/font&gt;&lt;font size="12" color="#ffffa600"&gt;&lt;loc&gt;&lt;a href="showinfo:1375//90466128"&gt;Henrik Vange&lt;/loc&gt;r&lt;/a&gt;&lt;br&gt;&lt;/font&gt;&lt;font size="12" color="#bfffffff"&gt;Directors: &lt;/font&gt;&lt;font size="12" color="#ffffa600"&gt;&lt;loc&gt;&lt;a href="showinfo:1376//1342084694"&gt;MagnusIIIBR&lt;/a&gt;&lt;/loc&gt;&lt;/font&gt;&lt;font size="12" color="#bfffffff"&gt; &lt;/font&gt;&lt;font size="12" color="#ffffa600"&gt;&lt;loc&gt;&lt;a href="showinfo:1383//1697865217"&gt;Penadinh&lt;/loc&gt;o&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font size="12" color="#bfffffff"&gt;Channel: Ponto*Final&lt;/font&gt;</description>
+    <url>http://pontofinal.eve-kill.net/</url>
+    <allianceID>1522788853</allianceID>
+    <allianceName>En Garde</allianceName>
+    <taxRate>10</taxRate>
+    <memberCount>63</memberCount>
+    <memberLimit>200</memberLimit>
+    <shares>1000</shares>
+    <rowset name="divisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="ALPHA"/>
+      <row accountKey="1001" description="BETA"/>
+      <row accountKey="1002" description="GAMMA"/>
+      <row accountKey="1003" description="DELTA"/>
+      <row accountKey="1004" description="EPSILON"/>
+      <row accountKey="1005" description="ZETA"/>
+      <row accountKey="1006" description="ETA"/>
+    </rowset>
+    <rowset name="walletDivisions" key="accountKey" columns="accountKey,description">
+      <row accountKey="1000" description="Wallet Division 1"/>
+      <row accountKey="1001" description="Tax"/>
+      <row accountKey="1002" description="Transporte"/>
+      <row accountKey="1003" description="Donation"/>
+      <row accountKey="1004" description="Fringe"/>
+      <row accountKey="1005" description="AEON PROJECT"/>
+      <row accountKey="1006" description="One Percent"/>
+    </rowset>
+    <logo>
+      <graphicID>0</graphicID>
+      <shape1>520</shape1>
+      <shape2>468</shape2>
+      <shape3>0</shape3>
+      <color1>684</color1>
+      <color2>680</color2>
+      <color3>0</color3>
+    </logo>
+  </result>
+  <cachedUntil>2012-08-29 16:01:25</cachedUntil>
+</eveapi>

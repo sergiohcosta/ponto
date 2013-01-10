@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+  <currentTime>2012-09-08 17:37:52</currentTime>
+  <result>
+    <rowset name="entries" key="refID" columns="date,refID,refTypeID,ownerName1,ownerID1,ownerName2,ownerID2,argName1,argID1,amount,balance,reason">
+      <row date="2012-08-30 04:30:54" refID="6301726564" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="412601054.50" balance="3742929143.12" reason="DESC: dois dias de rateio&#xA;" />
+      <row date="2012-08-28 02:38:21" refID="6294625856" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="193168633.50" balance="3330328088.62" reason="" />
+      <row date="2012-08-28 02:08:43" refID="6294560939" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="230000000.00" balance="3137159455.12" reason="" />
+      <row date="2012-08-27 14:37:08" refID="6292402790" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="525480891.63" balance="2907159455.12" reason="DESC: rateio fim se semana&#xA;" />
+      <row date="2012-08-25 15:31:45" refID="6283168423" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="160000000.00" balance="2381678563.49" reason="" />
+      <row date="2012-08-24 02:42:28" refID="6277483686" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="182596670.10" balance="2221678563.49" reason="" />
+      <row date="2012-08-23 02:20:35" refID="6273731421" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="613352419.66" balance="2039081893.39" reason="" />
+      <row date="2012-08-10 01:16:49" refID="6221800666" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="200000000.00" balance="1425729473.73" reason="" />
+      <row date="2012-08-05 13:26:47" refID="6204364631" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="23207906.25" balance="1225729473.73" reason="" />
+      <row date="2012-08-03 04:27:36" refID="6195255167" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="240879220.01" balance="1202521567.48" reason="" />
+      <row date="2012-08-03 01:45:42" refID="6194902459" refTypeID="37" ownerName1="Ponto Final" ownerID1="1004439921" ownerName2="Ponto Final" ownerID2="1004439921" argName1="BrnooX" argID1="727503484" amount="88555555.00" balance="961642347.47" reason="DESC: wallet certa&#xA;" />
+      <row date="2012-08-02 02:38:59" refID="6191395978" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="220132926.60" balance="873086792.47" reason="" />
+      <row date="2012-08-02 01:11:01" refID="6191189105" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="109317776.61" balance="652953865.87" reason="" />
+      <row date="2012-08-01 02:22:27" refID="6187636512" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="137426736.96" balance="543636089.26" reason="" />
+      <row date="2012-08-01 01:56:44" refID="6187574326" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="43386554.82" balance="406209352.30" reason="" />
+      <row date="2012-07-31 23:48:04" refID="6187257961" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="25589542.59" balance="362822797.48" reason="" />
+      <row date="2012-07-31 02:59:37" refID="6183860717" refTypeID="10" ownerName1="Henrik Vanger" ownerID1="90466128" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="176149576.96" balance="337233254.89" reason="DESC: rateio 29 e 30 de julho&#xA;" />
+      <row date="2012-07-31 01:54:01" refID="6183698780" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="23423499.71" balance="161083677.93" reason="" />
+      <row date="2012-07-30 23:21:10" refID="6183305385" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="4406000.00" balance="137660178.22" reason="" />
+      <row date="2012-07-30 23:11:35" refID="6183279432" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="17000000.00" balance="133254178.22" reason="" />
+      <row date="2012-07-30 19:55:38" refID="6182607169" refTypeID="10" ownerName1="SHAAKR" ownerID1="267494955" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="68010462.50" balance="116254178.22" reason="" />
+      <row date="2012-07-30 15:07:34" refID="6181578539" refTypeID="10" ownerName1="SHAAKR" ownerID1="267494955" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="20243715.72" balance="48243715.72" reason="" />
+      <row date="2012-07-30 12:19:56" refID="6181141243" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="15000000.00" balance="28000000.00" reason="" />
+      <row date="2012-07-29 23:12:53" refID="6179434254" refTypeID="10" ownerName1="BrnooX" ownerID1="727503484" ownerName2="Ponto Final" ownerID2="1004439921" argName1="" argID1="0" amount="13000000.00" balance="13000000.00" reason="" />
+    </rowset>
+  </result>
+  <cachedUntil>2012-09-08 17:47:40</cachedUntil>
+</eveapi>

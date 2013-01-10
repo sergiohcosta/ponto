@@ -1,0 +1,1232 @@
+------------------------------------------------------------
+  Gamelog
+  Listener: Henrik Vanger
+  Session Started: 2012.08.30 03:50:17
+------------------------------------------------------------
+[ 2012.08.30 03:50:28 ] (notify) Your targeting attempt fails because your ship is cloaked.
+[ 2012.08.30 03:50:28 ] (notify) Your targeting attempt fails because your ship is cloaked.
+[ 2012.08.30 03:50:30 ] (notify) Approaching Sansha's Mutant Lord
+[ 2012.08.30 03:50:30 ] (notify) Your targeting attempt fails because your ship is cloaked.
+[ 2012.08.30 03:50:37 ] (notify) Sansha's Mutant Lord is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 03:50:37 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>765</b> damage
+[ 2012.08.30 03:50:40 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1220</b> damage
+[ 2012.08.30 03:50:43 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1013</b> damage
+[ 2012.08.30 03:50:46 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>544</b> damage
+[ 2012.08.30 03:50:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>710</b> damage
+[ 2012.08.30 03:50:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1294</b> damage
+[ 2012.08.30 03:50:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>527</b> damage
+[ 2012.08.30 03:50:59 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1172</b> damage
+[ 2012.08.30 03:51:02 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>986</b> damage
+[ 2012.08.30 03:51:05 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1040</b> damage
+[ 2012.08.30 03:51:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>1293</b> damage
+[ 2012.08.30 03:51:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>2310</b> damage
+[ 2012.08.30 03:51:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Sansha's Mutant Lord for <b>2299</b> damage
+[ 2012.08.30 03:51:37 ] (notify) Loading the Projectile Ammo into the Projectile Weapon; this will take approximately 10,00 seconds.
+[ 2012.08.30 03:52:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1255</b> damage
+[ 2012.08.30 03:52:23 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 03:52:23 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 03:52:25 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1443</b> damage
+[ 2012.08.30 03:52:28 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1144</b> damage
+[ 2012.08.30 03:52:29 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 03:52:32 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 03:52:32 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 03:52:32 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1221</b> damage
+[ 2012.08.30 03:52:32 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>60</b> damage
+[ 2012.08.30 03:52:32 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>75</b> damage
+[ 2012.08.30 03:52:32 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>70</b> damage
+[ 2012.08.30 03:52:32 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>87</b> damage
+[ 2012.08.30 03:52:34 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 03:52:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1196</b> damage
+[ 2012.08.30 03:52:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>145</b> damage
+[ 2012.08.30 03:52:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>150</b> damage
+[ 2012.08.30 03:52:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>136</b> damage
+[ 2012.08.30 03:52:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>95</b> damage
+[ 2012.08.30 03:52:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1451</b> damage
+[ 2012.08.30 03:52:42 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>71</b> damage
+[ 2012.08.30 03:52:42 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>78</b> damage
+[ 2012.08.30 03:52:42 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>96</b> damage
+[ 2012.08.30 03:52:42 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>126</b> damage
+[ 2012.08.30 03:52:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1345</b> damage
+[ 2012.08.30 03:52:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1550</b> damage
+[ 2012.08.30 03:52:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>108</b> damage
+[ 2012.08.30 03:52:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>90</b> damage
+[ 2012.08.30 03:52:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>136</b> damage
+[ 2012.08.30 03:52:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>141</b> damage
+[ 2012.08.30 03:52:49 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1243</b> damage
+[ 2012.08.30 03:52:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>60</b> damage
+[ 2012.08.30 03:52:49 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>71</b> damage
+[ 2012.08.30 03:52:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>93</b> damage
+[ 2012.08.30 03:52:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>94</b> damage
+[ 2012.08.30 03:52:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1691</b> damage
+[ 2012.08.30 03:52:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>133</b> damage
+[ 2012.08.30 03:52:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>126</b> damage
+[ 2012.08.30 03:52:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>124</b> damage
+[ 2012.08.30 03:52:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>134</b> damage
+[ 2012.08.30 03:52:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2022</b> damage
+[ 2012.08.30 03:52:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>92</b> damage
+[ 2012.08.30 03:52:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>63</b> damage
+[ 2012.08.30 03:52:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>81</b> damage
+[ 2012.08.30 03:52:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>138</b> damage
+[ 2012.08.30 03:52:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2958</b> damage
+[ 2012.08.30 03:53:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>122</b> damage
+[ 2012.08.30 03:53:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>115</b> damage
+[ 2012.08.30 03:53:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>77</b> damage
+[ 2012.08.30 03:53:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>100</b> damage
+[ 2012.08.30 03:53:04 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1277</b> damage
+[ 2012.08.30 03:53:05 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>70</b> damage
+[ 2012.08.30 03:53:05 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>77</b> damage
+[ 2012.08.30 03:53:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>122</b> damage
+[ 2012.08.30 03:53:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>112</b> damage
+[ 2012.08.30 03:53:08 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1251</b> damage
+[ 2012.08.30 03:53:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>121</b> damage
+[ 2012.08.30 03:53:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>65</b> damage
+[ 2012.08.30 03:53:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>84</b> damage
+[ 2012.08.30 03:53:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>72</b> damage
+[ 2012.08.30 03:53:11 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1269</b> damage
+[ 2012.08.30 03:53:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>121</b> damage
+[ 2012.08.30 03:53:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>164</b> damage
+[ 2012.08.30 03:53:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>144</b> damage
+[ 2012.08.30 03:53:13 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>99</b> damage
+[ 2012.08.30 03:53:14 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1126</b> damage
+[ 2012.08.30 03:53:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>153</b> damage
+[ 2012.08.30 03:53:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>211</b> damage
+[ 2012.08.30 03:53:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>127</b> damage
+[ 2012.08.30 03:53:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>145</b> damage
+[ 2012.08.30 03:53:17 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1299</b> damage
+[ 2012.08.30 03:53:20 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1318</b> damage
+[ 2012.08.30 03:53:21 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>71</b> damage
+[ 2012.08.30 03:53:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>132</b> damage
+[ 2012.08.30 03:53:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>116</b> damage
+[ 2012.08.30 03:53:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>116</b> damage
+[ 2012.08.30 03:53:23 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1177</b> damage
+[ 2012.08.30 03:53:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>13</b> damage
+[ 2012.08.30 03:53:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>118</b> damage
+[ 2012.08.30 03:53:27 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1341</b> damage
+[ 2012.08.30 03:53:29 ] (combat) <color=0xff66bb00>Curator I hits Centus Dread Lord for <b>48</b> damage
+[ 2012.08.30 03:53:29 ] (combat) <color=0xff66bb00>Curator I hits Centus Dread Lord for <b>49</b> damage
+[ 2012.08.30 03:53:30 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1195</b> damage
+[ 2012.08.30 03:53:33 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>82</b> damage
+[ 2012.08.30 03:53:33 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>66</b> damage
+[ 2012.08.30 03:53:33 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2658</b> damage
+[ 2012.08.30 03:53:33 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>143</b> damage
+[ 2012.08.30 03:53:33 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>129</b> damage
+[ 2012.08.30 03:53:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2678</b> damage
+[ 2012.08.30 03:53:41 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>71</b> damage
+[ 2012.08.30 03:53:41 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>74</b> damage
+[ 2012.08.30 03:53:43 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>85</b> damage
+[ 2012.08.30 03:53:43 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>89</b> damage
+[ 2012.08.30 03:53:45 ] (notify) Drones engaging Centatis Devil
+[ 2012.08.30 03:53:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>56</b> damage
+[ 2012.08.30 03:53:46 ] (combat) <color=0xff66bb00>Curator I hits Centus Dread Lord for <b>50</b> damage
+[ 2012.08.30 03:53:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>61</b> damage
+[ 2012.08.30 03:53:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>67</b> damage
+[ 2012.08.30 03:53:47 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>742</b> damage
+[ 2012.08.30 03:53:50 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>78</b> damage
+[ 2012.08.30 03:53:50 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>100</b> damage
+[ 2012.08.30 03:53:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1050</b> damage
+[ 2012.08.30 03:53:51 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>57</b> damage
+[ 2012.08.30 03:53:51 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>314</b> damage (Wrecking!)
+[ 2012.08.30 03:53:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>123</b> damage
+[ 2012.08.30 03:53:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>79</b> damage
+[ 2012.08.30 03:53:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1269</b> damage
+[ 2012.08.30 03:53:55 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>75</b> damage
+[ 2012.08.30 03:53:55 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>56</b> damage
+[ 2012.08.30 03:53:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1048</b> damage
+[ 2012.08.30 03:53:58 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:53:58 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:53:59 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>64</b> damage
+[ 2012.08.30 03:53:59 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>83</b> damage
+[ 2012.08.30 03:54:00 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1343</b> damage
+[ 2012.08.30 03:54:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>129</b> damage
+[ 2012.08.30 03:54:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>124</b> damage
+[ 2012.08.30 03:54:03 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>59</b> damage
+[ 2012.08.30 03:54:03 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>105</b> damage
+[ 2012.08.30 03:54:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1227</b> damage
+[ 2012.08.30 03:54:06 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:06 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>65</b> damage
+[ 2012.08.30 03:54:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>804</b> damage
+[ 2012.08.30 03:54:07 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>150</b> damage
+[ 2012.08.30 03:54:07 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>103</b> damage
+[ 2012.08.30 03:54:11 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>909</b> damage
+[ 2012.08.30 03:54:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>115</b> damage
+[ 2012.08.30 03:54:11 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>103</b> damage
+[ 2012.08.30 03:54:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>87</b> damage
+[ 2012.08.30 03:54:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1106</b> damage
+[ 2012.08.30 03:54:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>90</b> damage
+[ 2012.08.30 03:54:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>81</b> damage
+[ 2012.08.30 03:54:15 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>87</b> damage
+[ 2012.08.30 03:54:15 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>117</b> damage
+[ 2012.08.30 03:54:17 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>961</b> damage
+[ 2012.08.30 03:54:19 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>98</b> damage
+[ 2012.08.30 03:54:19 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>67</b> damage
+[ 2012.08.30 03:54:19 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>68</b> damage
+[ 2012.08.30 03:54:19 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>116</b> damage
+[ 2012.08.30 03:54:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1304</b> damage
+[ 2012.08.30 03:54:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>105</b> damage
+[ 2012.08.30 03:54:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>111</b> damage
+[ 2012.08.30 03:54:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1485</b> damage
+[ 2012.08.30 03:54:23 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>73</b> damage
+[ 2012.08.30 03:54:23 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>139</b> damage
+[ 2012.08.30 03:54:25 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2492</b> damage
+[ 2012.08.30 03:54:26 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>119</b> damage
+[ 2012.08.30 03:54:26 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:27 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>69</b> damage
+[ 2012.08.30 03:54:27 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>152</b> damage
+[ 2012.08.30 03:54:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>85</b> damage
+[ 2012.08.30 03:54:30 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>87</b> damage
+[ 2012.08.30 03:54:30 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1274</b> damage
+[ 2012.08.30 03:54:31 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>67</b> damage
+[ 2012.08.30 03:54:31 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>81</b> damage
+[ 2012.08.30 03:54:33 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1079</b> damage
+[ 2012.08.30 03:54:35 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>165</b> damage
+[ 2012.08.30 03:54:35 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>153</b> damage
+[ 2012.08.30 03:54:35 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>194</b> damage
+[ 2012.08.30 03:54:35 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>99</b> damage
+[ 2012.08.30 03:54:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1546</b> damage
+[ 2012.08.30 03:54:39 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>89</b> damage
+[ 2012.08.30 03:54:39 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:39 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>102</b> damage
+[ 2012.08.30 03:54:39 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:40 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1384</b> damage
+[ 2012.08.30 03:54:42 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>88</b> damage
+[ 2012.08.30 03:54:42 ] (combat) Curator I misses Centatis Devil
+[ 2012.08.30 03:54:43 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1679</b> damage
+[ 2012.08.30 03:54:43 ] (combat) <color=0xff66bb00>Curator I hits Centatis Devil for <b>65</b> damage
+[ 2012.08.30 03:54:43 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>97</b> damage
+[ 2012.08.30 03:54:46 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 03:54:46 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>88</b> damage
+[ 2012.08.30 03:54:46 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>110</b> damage
+[ 2012.08.30 03:54:46 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1571</b> damage
+[ 2012.08.30 03:54:47 ] (combat) <color=0xff99bb00>Curator I hits Centatis Devil for <b>184</b> damage
+[ 2012.08.30 03:54:49 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1489</b> damage
+[ 2012.08.30 03:54:49 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>70</b> damage
+[ 2012.08.30 03:54:51 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>71</b> damage
+[ 2012.08.30 03:54:51 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 03:54:52 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>69</b> damage
+[ 2012.08.30 03:54:52 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1552</b> damage
+[ 2012.08.30 03:54:54 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 03:54:55 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>108</b> damage
+[ 2012.08.30 03:54:55 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 03:54:56 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>101</b> damage
+[ 2012.08.30 03:54:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1593</b> damage
+[ 2012.08.30 03:54:58 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>59</b> damage
+[ 2012.08.30 03:54:59 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 03:54:59 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>122</b> damage
+[ 2012.08.30 03:54:59 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>3178</b> damage
+[ 2012.08.30 03:55:00 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>79</b> damage
+[ 2012.08.30 03:55:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>100</b> damage
+[ 2012.08.30 03:55:03 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>112</b> damage
+[ 2012.08.30 03:55:03 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>57</b> damage
+[ 2012.08.30 03:55:04 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>79</b> damage
+[ 2012.08.30 03:55:06 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>135</b> damage
+[ 2012.08.30 03:55:08 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>100</b> damage
+[ 2012.08.30 03:55:08 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>94</b> damage
+[ 2012.08.30 03:55:08 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>142</b> damage
+[ 2012.08.30 03:55:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>2144</b> damage
+[ 2012.08.30 03:55:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>147</b> damage
+[ 2012.08.30 03:55:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>93</b> damage
+[ 2012.08.30 03:55:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>129</b> damage
+[ 2012.08.30 03:55:12 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>76</b> damage
+[ 2012.08.30 03:55:12 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>1573</b> damage
+[ 2012.08.30 03:55:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>81</b> damage
+[ 2012.08.30 03:55:15 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>102</b> damage
+[ 2012.08.30 03:55:15 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>54</b> damage
+[ 2012.08.30 03:55:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>784</b> damage
+[ 2012.08.30 03:55:16 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>86</b> damage
+[ 2012.08.30 03:55:19 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>77</b> damage
+[ 2012.08.30 03:55:19 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>65</b> damage
+[ 2012.08.30 03:55:19 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>61</b> damage
+[ 2012.08.30 03:55:20 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>116</b> damage
+[ 2012.08.30 03:55:20 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Specter for <b>2136</b> damage
+[ 2012.08.30 03:55:32 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1016</b> damage
+[ 2012.08.30 03:55:33 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 03:55:33 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 03:55:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1427</b> damage
+[ 2012.08.30 03:55:37 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1346</b> damage
+[ 2012.08.30 03:55:40 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1278</b> damage
+[ 2012.08.30 03:55:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1851</b> damage
+[ 2012.08.30 03:55:46 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:46 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:46 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:55:47 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>956</b> damage
+[ 2012.08.30 03:55:50 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>98</b> damage
+[ 2012.08.30 03:55:50 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>131</b> damage
+[ 2012.08.30 03:55:50 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>64</b> damage
+[ 2012.08.30 03:55:50 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>100</b> damage
+[ 2012.08.30 03:55:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1059</b> damage
+[ 2012.08.30 03:55:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1257</b> damage
+[ 2012.08.30 03:55:55 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>67</b> damage
+[ 2012.08.30 03:55:55 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>126</b> damage
+[ 2012.08.30 03:55:55 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>88</b> damage
+[ 2012.08.30 03:55:55 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>129</b> damage
+[ 2012.08.30 03:55:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1295</b> damage
+[ 2012.08.30 03:55:58 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>68</b> damage
+[ 2012.08.30 03:55:58 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>95</b> damage
+[ 2012.08.30 03:55:58 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>59</b> damage
+[ 2012.08.30 03:55:58 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>126</b> damage
+[ 2012.08.30 03:55:59 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1716</b> damage
+[ 2012.08.30 03:56:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>128</b> damage
+[ 2012.08.30 03:56:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>109</b> damage
+[ 2012.08.30 03:56:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>119</b> damage
+[ 2012.08.30 03:56:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>116</b> damage
+[ 2012.08.30 03:56:03 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1001</b> damage
+[ 2012.08.30 03:56:06 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>74</b> damage
+[ 2012.08.30 03:56:06 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>121</b> damage
+[ 2012.08.30 03:56:06 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>53</b> damage
+[ 2012.08.30 03:56:06 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>97</b> damage
+[ 2012.08.30 03:56:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>3135</b> damage
+[ 2012.08.30 03:56:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>53</b> damage
+[ 2012.08.30 03:56:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>60</b> damage
+[ 2012.08.30 03:56:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>141</b> damage
+[ 2012.08.30 03:56:10 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>109</b> damage
+[ 2012.08.30 03:56:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>101</b> damage
+[ 2012.08.30 03:56:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>111</b> damage
+[ 2012.08.30 03:56:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>123</b> damage
+[ 2012.08.30 03:56:14 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>134</b> damage
+[ 2012.08.30 03:56:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>129</b> damage
+[ 2012.08.30 03:56:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>136</b> damage
+[ 2012.08.30 03:56:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>104</b> damage
+[ 2012.08.30 03:56:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>117</b> damage
+[ 2012.08.30 03:56:22 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>71</b> damage
+[ 2012.08.30 03:56:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>53</b> damage
+[ 2012.08.30 03:56:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>54</b> damage
+[ 2012.08.30 03:56:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>93</b> damage
+[ 2012.08.30 03:56:26 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>123</b> damage
+[ 2012.08.30 03:56:26 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>146</b> damage
+[ 2012.08.30 03:56:26 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>59</b> damage
+[ 2012.08.30 03:56:26 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>124</b> damage
+[ 2012.08.30 03:56:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>134</b> damage
+[ 2012.08.30 03:56:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>175</b> damage
+[ 2012.08.30 03:56:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>171</b> damage
+[ 2012.08.30 03:56:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>163</b> damage
+[ 2012.08.30 03:56:34 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>149</b> damage
+[ 2012.08.30 03:56:34 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>54</b> damage
+[ 2012.08.30 03:56:34 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:56:34 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>141</b> damage
+[ 2012.08.30 03:56:38 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>86</b> damage
+[ 2012.08.30 03:56:38 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>213</b> damage
+[ 2012.08.30 03:56:38 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>97</b> damage
+[ 2012.08.30 03:56:38 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>170</b> damage
+[ 2012.08.30 03:56:42 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>78</b> damage
+[ 2012.08.30 03:56:42 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>97</b> damage
+[ 2012.08.30 03:56:44 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>937</b> damage
+[ 2012.08.30 03:56:44 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>45</b> damage
+[ 2012.08.30 03:56:44 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>56</b> damage
+[ 2012.08.30 03:56:47 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1293</b> damage
+[ 2012.08.30 03:56:48 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:56:48 ] (notify) Drones engaging Centatis Phantasm
+[ 2012.08.30 03:56:48 ] (combat) Curator I misses Centus Dread Lord
+[ 2012.08.30 03:56:48 ] (combat) <color=0xff99bb00>Curator I hits Centus Dread Lord for <b>95</b> damage
+[ 2012.08.30 03:56:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1372</b> damage
+[ 2012.08.30 03:56:51 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>76</b> damage
+[ 2012.08.30 03:56:51 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>91</b> damage
+[ 2012.08.30 03:56:53 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>63</b> damage
+[ 2012.08.30 03:56:53 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>100</b> damage
+[ 2012.08.30 03:56:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>754</b> damage
+[ 2012.08.30 03:56:55 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>68</b> damage
+[ 2012.08.30 03:56:55 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>66</b> damage
+[ 2012.08.30 03:56:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>844</b> damage
+[ 2012.08.30 03:56:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>98</b> damage
+[ 2012.08.30 03:56:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>76</b> damage
+[ 2012.08.30 03:56:59 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>72</b> damage
+[ 2012.08.30 03:56:59 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>71</b> damage
+[ 2012.08.30 03:57:00 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1205</b> damage
+[ 2012.08.30 03:57:01 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>101</b> damage
+[ 2012.08.30 03:57:04 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>929</b> damage
+[ 2012.08.30 03:57:04 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>112</b> damage
+[ 2012.08.30 03:57:04 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:05 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>60</b> damage
+[ 2012.08.30 03:57:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1189</b> damage
+[ 2012.08.30 03:57:07 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>118</b> damage
+[ 2012.08.30 03:57:07 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>89</b> damage
+[ 2012.08.30 03:57:09 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>88</b> damage
+[ 2012.08.30 03:57:09 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1430</b> damage
+[ 2012.08.30 03:57:11 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>120</b> damage
+[ 2012.08.30 03:57:11 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1199</b> damage
+[ 2012.08.30 03:57:13 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>95</b> damage
+[ 2012.08.30 03:57:15 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:15 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>77</b> damage
+[ 2012.08.30 03:57:16 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1033</b> damage
+[ 2012.08.30 03:57:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>86</b> damage
+[ 2012.08.30 03:57:17 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:19 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1432</b> damage
+[ 2012.08.30 03:57:19 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>118</b> damage
+[ 2012.08.30 03:57:19 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>111</b> damage
+[ 2012.08.30 03:57:21 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:21 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:22 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2047</b> damage
+[ 2012.08.30 03:57:24 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>125</b> damage
+[ 2012.08.30 03:57:24 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>90</b> damage
+[ 2012.08.30 03:57:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>87</b> damage
+[ 2012.08.30 03:57:25 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>72</b> damage
+[ 2012.08.30 03:57:25 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2304</b> damage
+[ 2012.08.30 03:57:28 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>54</b> damage
+[ 2012.08.30 03:57:28 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>97</b> damage
+[ 2012.08.30 03:57:29 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>84</b> damage
+[ 2012.08.30 03:57:29 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>65</b> damage
+[ 2012.08.30 03:57:29 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1479</b> damage
+[ 2012.08.30 03:57:32 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>111</b> damage
+[ 2012.08.30 03:57:32 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>109</b> damage
+[ 2012.08.30 03:57:32 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1187</b> damage
+[ 2012.08.30 03:57:33 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>82</b> damage
+[ 2012.08.30 03:57:33 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1174</b> damage
+[ 2012.08.30 03:57:36 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>84</b> damage
+[ 2012.08.30 03:57:36 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>119</b> damage
+[ 2012.08.30 03:57:37 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>71</b> damage
+[ 2012.08.30 03:57:37 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:39 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1117</b> damage
+[ 2012.08.30 03:57:40 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>94</b> damage
+[ 2012.08.30 03:57:40 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:41 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:41 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>89</b> damage
+[ 2012.08.30 03:57:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1398</b> damage
+[ 2012.08.30 03:57:44 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:44 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>132</b> damage
+[ 2012.08.30 03:57:45 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:45 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:45 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>663</b> damage
+[ 2012.08.30 03:57:48 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>53</b> damage
+[ 2012.08.30 03:57:48 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>58</b> damage
+[ 2012.08.30 03:57:48 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1771</b> damage
+[ 2012.08.30 03:57:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>78</b> damage
+[ 2012.08.30 03:57:49 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:52 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1163</b> damage
+[ 2012.08.30 03:57:52 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>121</b> damage
+[ 2012.08.30 03:57:52 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>95</b> damage
+[ 2012.08.30 03:57:53 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:53 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>65</b> damage
+[ 2012.08.30 03:57:55 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1401</b> damage
+[ 2012.08.30 03:57:56 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:56 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>150</b> damage
+[ 2012.08.30 03:57:57 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:57 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:57:58 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1974</b> damage
+[ 2012.08.30 03:58:00 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>108</b> damage
+[ 2012.08.30 03:58:00 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>54</b> damage
+[ 2012.08.30 03:58:01 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:01 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:01 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1904</b> damage
+[ 2012.08.30 03:58:04 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>92</b> damage
+[ 2012.08.30 03:58:04 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>124</b> damage
+[ 2012.08.30 03:58:04 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2008</b> damage
+[ 2012.08.30 03:58:05 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>107</b> damage
+[ 2012.08.30 03:58:08 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>83</b> damage
+[ 2012.08.30 03:58:08 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>103</b> damage
+[ 2012.08.30 03:58:09 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:09 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:10 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1420</b> damage
+[ 2012.08.30 03:58:12 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>62</b> damage
+[ 2012.08.30 03:58:12 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>111</b> damage
+[ 2012.08.30 03:58:13 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:13 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1268</b> damage
+[ 2012.08.30 03:58:16 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>63</b> damage
+[ 2012.08.30 03:58:16 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>142</b> damage
+[ 2012.08.30 03:58:17 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1284</b> damage
+[ 2012.08.30 03:58:17 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>73</b> damage
+[ 2012.08.30 03:58:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>86</b> damage
+[ 2012.08.30 03:58:20 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1454</b> damage
+[ 2012.08.30 03:58:20 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>119</b> damage
+[ 2012.08.30 03:58:20 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>84</b> damage
+[ 2012.08.30 03:58:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>111</b> damage
+[ 2012.08.30 03:58:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>113</b> damage
+[ 2012.08.30 03:58:23 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1543</b> damage
+[ 2012.08.30 03:58:24 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:24 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>80</b> damage
+[ 2012.08.30 03:58:25 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:25 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:26 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1168</b> damage
+[ 2012.08.30 03:58:28 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>67</b> damage
+[ 2012.08.30 03:58:28 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:29 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>87</b> damage
+[ 2012.08.30 03:58:29 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:29 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1298</b> damage
+[ 2012.08.30 03:58:33 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>57</b> damage
+[ 2012.08.30 03:58:33 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>78</b> damage
+[ 2012.08.30 03:58:33 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1214</b> damage
+[ 2012.08.30 03:58:33 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:33 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1237</b> damage
+[ 2012.08.30 03:58:36 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>110</b> damage
+[ 2012.08.30 03:58:36 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>64</b> damage
+[ 2012.08.30 03:58:37 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:37 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:39 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2069</b> damage
+[ 2012.08.30 03:58:40 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:40 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>82</b> damage
+[ 2012.08.30 03:58:42 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>81</b> damage
+[ 2012.08.30 03:58:42 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>85</b> damage
+[ 2012.08.30 03:58:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2600</b> damage
+[ 2012.08.30 03:58:44 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:44 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>83</b> damage
+[ 2012.08.30 03:58:45 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>68</b> damage
+[ 2012.08.30 03:58:45 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>107</b> damage
+[ 2012.08.30 03:58:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>105</b> damage
+[ 2012.08.30 03:58:49 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>95</b> damage
+[ 2012.08.30 03:58:49 ] (combat) Curator I misses Centatis Phantasm
+[ 2012.08.30 03:58:52 ] (combat) <color=0xff99bb00>Curator I hits Centatis Phantasm for <b>43</b> damage
+[ 2012.08.30 03:58:52 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>103</b> damage
+[ 2012.08.30 03:58:53 ] (combat) <color=0xff66bb00>Curator I hits Centatis Phantasm for <b>95</b> damage
+[ 2012.08.30 03:58:58 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>51</b> damage
+[ 2012.08.30 03:59:00 ] (question) Are you sure you want to remove location?
+[ 2012.08.30 03:59:01 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>120</b> damage
+[ 2012.08.30 03:59:02 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>85</b> damage
+[ 2012.08.30 03:59:02 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>94</b> damage
+[ 2012.08.30 03:59:05 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:06 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:06 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>1917</b> damage
+[ 2012.08.30 03:59:09 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>84</b> damage
+[ 2012.08.30 03:59:09 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:10 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>2583</b> damage
+[ 2012.08.30 03:59:10 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:10 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>83</b> damage
+[ 2012.08.30 03:59:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>80</b> damage
+[ 2012.08.30 03:59:14 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:14 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>60</b> damage
+[ 2012.08.30 03:59:18 ] (combat) <color=0xff66bb00>Curator I hits Centatis Daemon for <b>71</b> damage
+[ 2012.08.30 03:59:18 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>295</b> damage (Wrecking!)
+[ 2012.08.30 03:59:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>1838</b> damage
+[ 2012.08.30 03:59:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>91</b> damage
+[ 2012.08.30 03:59:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Daemon for <b>130</b> damage
+[ 2012.08.30 03:59:22 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:22 ] (combat) Curator I misses Centatis Daemon
+[ 2012.08.30 03:59:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Daemon for <b>1454</b> damage
+[ 2012.08.30 03:59:34 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1046</b> damage
+[ 2012.08.30 03:59:36 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 03:59:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1281</b> damage
+[ 2012.08.30 03:59:39 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>873</b> damage
+[ 2012.08.30 03:59:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1851</b> damage
+[ 2012.08.30 03:59:45 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1397</b> damage
+[ 2012.08.30 03:59:49 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1233</b> damage
+[ 2012.08.30 03:59:52 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1299</b> damage
+[ 2012.08.30 03:59:55 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1405</b> damage
+[ 2012.08.30 03:59:58 ] (notify) Drones engaging Centum Loyal Mutilator
+[ 2012.08.30 03:59:58 ] (notify) Drones engaging Centum Loyal Mutilator
+[ 2012.08.30 03:59:58 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1850</b> damage
+[ 2012.08.30 04:00:01 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:01 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>46</b> damage
+[ 2012.08.30 04:00:01 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:01 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:00:01 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1696</b> damage
+[ 2012.08.30 04:00:05 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>3105</b> damage
+[ 2012.08.30 04:00:05 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>45</b> damage
+[ 2012.08.30 04:00:05 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>28</b> damage
+[ 2012.08.30 04:00:05 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>33</b> damage
+[ 2012.08.30 04:00:05 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:09 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:09 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>28</b> damage
+[ 2012.08.30 04:00:09 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:09 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:14 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>35</b> damage
+[ 2012.08.30 04:00:14 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>27</b> damage
+[ 2012.08.30 04:00:14 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>27</b> damage
+[ 2012.08.30 04:00:14 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1373</b> damage
+[ 2012.08.30 04:00:17 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:17 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:00:17 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:17 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>20</b> damage
+[ 2012.08.30 04:00:18 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1181</b> damage
+[ 2012.08.30 04:00:21 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1006</b> damage
+[ 2012.08.30 04:00:21 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:21 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>126</b> damage (Wrecking!)
+[ 2012.08.30 04:00:21 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:21 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:24 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1292</b> damage
+[ 2012.08.30 04:00:25 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:25 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:25 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:25 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:27 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1025</b> damage
+[ 2012.08.30 04:00:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:30 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>31</b> damage
+[ 2012.08.30 04:00:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:30 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>21</b> damage
+[ 2012.08.30 04:00:30 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1242</b> damage
+[ 2012.08.30 04:00:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>24</b> damage
+[ 2012.08.30 04:00:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:35 ] (notify) 800mm Repeating Artillery II has run out of charges
+[ 2012.08.30 04:00:35 ] (notify) Loading the Projectile Ammo into the Projectile Weapon; this will take approximately 10,00 seconds.
+[ 2012.08.30 04:00:38 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:38 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:38 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:00:38 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:00:42 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>29</b> damage
+[ 2012.08.30 04:00:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:42 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:00:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:46 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:00:46 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:00:46 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:46 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:00:46 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1515</b> damage
+[ 2012.08.30 04:00:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1201</b> damage
+[ 2012.08.30 04:00:50 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>22</b> damage
+[ 2012.08.30 04:00:50 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:50 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:50 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1103</b> damage
+[ 2012.08.30 04:00:54 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:00:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>4079</b> damage
+[ 2012.08.30 04:00:58 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:58 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>37</b> damage
+[ 2012.08.30 04:00:58 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:00:58 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>20</b> damage
+[ 2012.08.30 04:01:02 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>32</b> damage
+[ 2012.08.30 04:01:02 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:02 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:02 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:07 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:01:07 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:01:07 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:01:07 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1388</b> damage
+[ 2012.08.30 04:01:08 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:01:10 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:01:10 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:10 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:10 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:10 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1560</b> damage
+[ 2012.08.30 04:01:13 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>998</b> damage
+[ 2012.08.30 04:01:14 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>38</b> damage
+[ 2012.08.30 04:01:14 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>32</b> damage
+[ 2012.08.30 04:01:14 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:14 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:16 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1163</b> damage
+[ 2012.08.30 04:01:18 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>22</b> damage
+[ 2012.08.30 04:01:18 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:18 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:18 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:20 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>839</b> damage
+[ 2012.08.30 04:01:22 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>41</b> damage
+[ 2012.08.30 04:01:22 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:22 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:22 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:23 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1134</b> damage
+[ 2012.08.30 04:01:26 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1187</b> damage
+[ 2012.08.30 04:01:26 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>22</b> damage
+[ 2012.08.30 04:01:26 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>24</b> damage
+[ 2012.08.30 04:01:26 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:26 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:29 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1172</b> damage
+[ 2012.08.30 04:01:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:30 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:32 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1380</b> damage
+[ 2012.08.30 04:01:34 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:01:34 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>37</b> damage
+[ 2012.08.30 04:01:34 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:34 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>831</b> damage
+[ 2012.08.30 04:01:38 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>33</b> damage
+[ 2012.08.30 04:01:38 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:38 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:38 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:39 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>728</b> damage
+[ 2012.08.30 04:01:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>607</b> damage
+[ 2012.08.30 04:01:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:42 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:45 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1595</b> damage
+[ 2012.08.30 04:01:46 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>32</b> damage
+[ 2012.08.30 04:01:46 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>29</b> damage
+[ 2012.08.30 04:01:46 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>24</b> damage
+[ 2012.08.30 04:01:46 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:48 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1961</b> damage
+[ 2012.08.30 04:01:50 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>42</b> damage
+[ 2012.08.30 04:01:50 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:01:50 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:50 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:51 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:01:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1655</b> damage
+[ 2012.08.30 04:01:54 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:01:54 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:01:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:54 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1217</b> damage
+[ 2012.08.30 04:01:58 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:01:59 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>40</b> damage
+[ 2012.08.30 04:01:59 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:01:59 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:59 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:01:59 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1047</b> damage
+[ 2012.08.30 04:02:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1028</b> damage
+[ 2012.08.30 04:02:03 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>32</b> damage
+[ 2012.08.30 04:02:03 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>21</b> damage
+[ 2012.08.30 04:02:03 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:03 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:07 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>772</b> damage
+[ 2012.08.30 04:02:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:07 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:02:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>747</b> damage
+[ 2012.08.30 04:02:11 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:02:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>846</b> damage
+[ 2012.08.30 04:02:15 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>23</b> damage
+[ 2012.08.30 04:02:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>754</b> damage
+[ 2012.08.30 04:02:17 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:02:18 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>769</b> damage
+[ 2012.08.30 04:02:19 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>21</b> damage
+[ 2012.08.30 04:02:19 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>31</b> damage
+[ 2012.08.30 04:02:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1033</b> damage
+[ 2012.08.30 04:02:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:23 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>40</b> damage
+[ 2012.08.30 04:02:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:25 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>665</b> damage
+[ 2012.08.30 04:02:27 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>31</b> damage
+[ 2012.08.30 04:02:27 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>34</b> damage
+[ 2012.08.30 04:02:27 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:27 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:28 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>908</b> damage
+[ 2012.08.30 04:02:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:31 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:02:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:31 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>915</b> damage
+[ 2012.08.30 04:02:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>780</b> damage
+[ 2012.08.30 04:02:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:02:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:38 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1002</b> damage
+[ 2012.08.30 04:02:39 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>35</b> damage
+[ 2012.08.30 04:02:39 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:39 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:41 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1787</b> damage
+[ 2012.08.30 04:02:43 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:02:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>3140</b> damage
+[ 2012.08.30 04:02:47 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>22</b> damage
+[ 2012.08.30 04:02:47 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>22</b> damage
+[ 2012.08.30 04:02:47 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:47 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>743</b> damage
+[ 2012.08.30 04:02:55 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:55 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:55 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:55 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:02:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>368</b> damage
+[ 2012.08.30 04:02:59 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>26</b> damage
+[ 2012.08.30 04:02:59 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:59 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:02:59 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:01 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>729</b> damage
+[ 2012.08.30 04:03:03 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:03 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:03:03 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:03 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:03 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>479</b> damage
+[ 2012.08.30 04:03:06 ] (notify) Centum Loyal Hellhound is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:03:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>609</b> damage
+[ 2012.08.30 04:03:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:07 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:09 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>975</b> damage
+[ 2012.08.30 04:03:11 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>43</b> damage
+[ 2012.08.30 04:03:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:11 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Hellhound for <b>1236</b> damage
+[ 2012.08.30 04:03:15 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>27</b> damage
+[ 2012.08.30 04:03:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:15 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:19 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:21 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>562</b> damage
+[ 2012.08.30 04:03:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:23 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>40</b> damage
+[ 2012.08.30 04:03:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:23 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:24 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>568</b> damage
+[ 2012.08.30 04:03:27 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>27</b> damage
+[ 2012.08.30 04:03:27 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:27 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:27 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:28 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>532</b> damage
+[ 2012.08.30 04:03:31 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>525</b> damage
+[ 2012.08.30 04:03:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:31 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>39</b> damage
+[ 2012.08.30 04:03:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:31 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:34 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>522</b> damage
+[ 2012.08.30 04:03:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:35 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:37 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>465</b> damage
+[ 2012.08.30 04:03:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>33</b> damage
+[ 2012.08.30 04:03:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>25</b> damage
+[ 2012.08.30 04:03:39 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:39 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:40 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>1650</b> damage
+[ 2012.08.30 04:03:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:43 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:47 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Mutilator for <b>555</b> damage
+[ 2012.08.30 04:03:47 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>37</b> damage
+[ 2012.08.30 04:03:47 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:47 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:47 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Mutilator for <b>27</b> damage
+[ 2012.08.30 04:03:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Mutilator for <b>553</b> damage
+[ 2012.08.30 04:03:51 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Mutilator for <b>34</b> damage
+[ 2012.08.30 04:03:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:51 ] (combat) Curator I misses Centum Loyal Mutilator
+[ 2012.08.30 04:03:53 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Mutilator for <b>1629</b> damage
+[ 2012.08.30 04:04:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1769</b> damage
+[ 2012.08.30 04:04:04 ] (notify) You are already managing 6 targets, as many as you have skill to.
+[ 2012.08.30 04:04:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1484</b> damage
+[ 2012.08.30 04:04:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>2016</b> damage
+[ 2012.08.30 04:04:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1453</b> damage
+[ 2012.08.30 04:04:16 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1518</b> damage
+[ 2012.08.30 04:04:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1241</b> damage
+[ 2012.08.30 04:04:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1326</b> damage
+[ 2012.08.30 04:04:26 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>2337</b> damage
+[ 2012.08.30 04:04:28 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1969</b> damage
+[ 2012.08.30 04:04:32 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1267</b> damage
+[ 2012.08.30 04:04:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1414</b> damage
+[ 2012.08.30 04:04:39 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1480</b> damage
+[ 2012.08.30 04:04:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1547</b> damage
+[ 2012.08.30 04:04:45 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:45 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1333</b> damage
+[ 2012.08.30 04:04:46 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:46 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:46 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:46 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:47 ] (notify) Drones engaging Centatis Specter
+[ 2012.08.30 04:04:48 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1399</b> damage
+[ 2012.08.30 04:04:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>151</b> damage
+[ 2012.08.30 04:04:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>95</b> damage
+[ 2012.08.30 04:04:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>132</b> damage
+[ 2012.08.30 04:04:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>136</b> damage
+[ 2012.08.30 04:04:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1276</b> damage
+[ 2012.08.30 04:04:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>91</b> damage
+[ 2012.08.30 04:04:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>87</b> damage
+[ 2012.08.30 04:04:54 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>94</b> damage
+[ 2012.08.30 04:04:54 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:04:55 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1481</b> damage
+[ 2012.08.30 04:04:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>86</b> damage
+[ 2012.08.30 04:04:57 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:04:57 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:04:57 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>114</b> damage
+[ 2012.08.30 04:04:58 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>2310</b> damage
+[ 2012.08.30 04:05:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>104</b> damage
+[ 2012.08.30 04:05:01 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>88</b> damage
+[ 2012.08.30 04:05:01 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>62</b> damage
+[ 2012.08.30 04:05:01 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:01 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>1100</b> damage
+[ 2012.08.30 04:05:04 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Plague Lord for <b>2981</b> damage
+[ 2012.08.30 04:05:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>126</b> damage
+[ 2012.08.30 04:05:05 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:05 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>90</b> damage
+[ 2012.08.30 04:05:05 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>70</b> damage
+[ 2012.08.30 04:05:08 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1267</b> damage
+[ 2012.08.30 04:05:09 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>58</b> damage
+[ 2012.08.30 04:05:09 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>104</b> damage
+[ 2012.08.30 04:05:09 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>100</b> damage
+[ 2012.08.30 04:05:09 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>63</b> damage
+[ 2012.08.30 04:05:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>2050</b> damage
+[ 2012.08.30 04:05:13 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>69</b> damage
+[ 2012.08.30 04:05:13 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>72</b> damage
+[ 2012.08.30 04:05:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>92</b> damage
+[ 2012.08.30 04:05:13 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>94</b> damage
+[ 2012.08.30 04:05:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1711</b> damage
+[ 2012.08.30 04:05:17 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>120</b> damage
+[ 2012.08.30 04:05:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>126</b> damage
+[ 2012.08.30 04:05:17 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>75</b> damage
+[ 2012.08.30 04:05:18 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1640</b> damage
+[ 2012.08.30 04:05:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>133</b> damage
+[ 2012.08.30 04:05:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>85</b> damage
+[ 2012.08.30 04:05:21 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>55</b> damage
+[ 2012.08.30 04:05:21 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>69</b> damage
+[ 2012.08.30 04:05:21 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1556</b> damage
+[ 2012.08.30 04:05:25 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1407</b> damage
+[ 2012.08.30 04:05:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>53</b> damage
+[ 2012.08.30 04:05:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>128</b> damage
+[ 2012.08.30 04:05:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>82</b> damage
+[ 2012.08.30 04:05:25 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>125</b> damage
+[ 2012.08.30 04:05:27 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1323</b> damage
+[ 2012.08.30 04:05:29 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>80</b> damage
+[ 2012.08.30 04:05:29 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>141</b> damage
+[ 2012.08.30 04:05:29 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>74</b> damage
+[ 2012.08.30 04:05:29 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>112</b> damage
+[ 2012.08.30 04:05:31 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>2035</b> damage
+[ 2012.08.30 04:05:33 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>96</b> damage
+[ 2012.08.30 04:05:33 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:33 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>118</b> damage
+[ 2012.08.30 04:05:33 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>74</b> damage
+[ 2012.08.30 04:05:34 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>2079</b> damage
+[ 2012.08.30 04:05:37 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>2414</b> damage
+[ 2012.08.30 04:05:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>53</b> damage
+[ 2012.08.30 04:05:37 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>77</b> damage
+[ 2012.08.30 04:05:37 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>85</b> damage
+[ 2012.08.30 04:05:37 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:41 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>77</b> damage
+[ 2012.08.30 04:05:41 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>71</b> damage
+[ 2012.08.30 04:05:41 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>85</b> damage
+[ 2012.08.30 04:05:41 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>87</b> damage
+[ 2012.08.30 04:05:41 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1335</b> damage
+[ 2012.08.30 04:05:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1771</b> damage
+[ 2012.08.30 04:05:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>192</b> damage
+[ 2012.08.30 04:05:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>138</b> damage
+[ 2012.08.30 04:05:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>129</b> damage
+[ 2012.08.30 04:05:45 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>179</b> damage
+[ 2012.08.30 04:05:48 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1484</b> damage
+[ 2012.08.30 04:05:49 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>75</b> damage
+[ 2012.08.30 04:05:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>122</b> damage
+[ 2012.08.30 04:05:49 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>70</b> damage
+[ 2012.08.30 04:05:49 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>161</b> damage
+[ 2012.08.30 04:05:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1596</b> damage
+[ 2012.08.30 04:05:53 ] (combat) <color=0xff66bb00>Curator I hits Centatis Specter for <b>108</b> damage
+[ 2012.08.30 04:05:53 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>115</b> damage
+[ 2012.08.30 04:05:53 ] (combat) Curator I misses Centatis Specter
+[ 2012.08.30 04:05:53 ] (combat) <color=0xff99bb00>Curator I hits Centatis Specter for <b>181</b> damage
+[ 2012.08.30 04:05:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1167</b> damage
+[ 2012.08.30 04:05:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1408</b> damage
+[ 2012.08.30 04:06:00 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1362</b> damage
+[ 2012.08.30 04:06:03 ] (combat) <color=0xff66bb00>Curator I hits Centus Beast Lord for <b>52</b> damage
+[ 2012.08.30 04:06:03 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>86</b> damage
+[ 2012.08.30 04:06:03 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>47</b> damage
+[ 2012.08.30 04:06:03 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>108</b> damage
+[ 2012.08.30 04:06:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1322</b> damage
+[ 2012.08.30 04:06:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>73</b> damage
+[ 2012.08.30 04:06:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>204</b> damage
+[ 2012.08.30 04:06:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>119</b> damage
+[ 2012.08.30 04:06:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>80</b> damage
+[ 2012.08.30 04:06:07 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1912</b> damage
+[ 2012.08.30 04:06:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>135</b> damage
+[ 2012.08.30 04:06:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>62</b> damage
+[ 2012.08.30 04:06:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>142</b> damage
+[ 2012.08.30 04:06:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Beast Lord for <b>71</b> damage
+[ 2012.08.30 04:06:10 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Beast Lord for <b>1953</b> damage
+[ 2012.08.30 04:06:16 ] (notify) Drones engaging Centatis Wraith
+[ 2012.08.30 04:06:17 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Wraith for <b>2035</b> damage
+[ 2012.08.30 04:06:18 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:18 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>107</b> damage
+[ 2012.08.30 04:06:18 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>57</b> damage
+[ 2012.08.30 04:06:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>103</b> damage
+[ 2012.08.30 04:06:22 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>85</b> damage
+[ 2012.08.30 04:06:22 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:22 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:24 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Specter for <b>1942</b> damage
+[ 2012.08.30 04:06:26 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:26 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:26 ] (combat) <color=0xff66bb00>Curator I hits Centatis Wraith for <b>62</b> damage
+[ 2012.08.30 04:06:26 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:27 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Specter for <b>2559</b> damage
+[ 2012.08.30 04:06:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>90</b> damage
+[ 2012.08.30 04:06:30 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:30 ] (combat) <color=0xff99bb00>Curator I hits Centatis Wraith for <b>90</b> damage
+[ 2012.08.30 04:06:30 ] (combat) Curator I misses Centatis Wraith
+[ 2012.08.30 04:06:31 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centatis Wraith for <b>2125</b> damage
+[ 2012.08.30 04:06:41 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1163</b> damage
+[ 2012.08.30 04:06:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1141</b> damage
+[ 2012.08.30 04:06:47 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1171</b> damage
+[ 2012.08.30 04:06:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1055</b> damage
+[ 2012.08.30 04:06:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1345</b> damage
+[ 2012.08.30 04:06:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1190</b> damage
+[ 2012.08.30 04:07:00 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1210</b> damage
+[ 2012.08.30 04:07:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1077</b> damage
+[ 2012.08.30 04:07:07 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1211</b> damage
+[ 2012.08.30 04:07:10 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1182</b> damage
+[ 2012.08.30 04:07:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2787</b> damage
+[ 2012.08.30 04:07:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1287</b> damage
+[ 2012.08.30 04:07:41 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1445</b> damage
+[ 2012.08.30 04:07:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1384</b> damage
+[ 2012.08.30 04:07:48 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1198</b> damage
+[ 2012.08.30 04:07:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1222</b> damage
+[ 2012.08.30 04:07:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1145</b> damage
+[ 2012.08.30 04:07:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1546</b> damage
+[ 2012.08.30 04:08:00 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1520</b> damage
+[ 2012.08.30 04:08:03 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1572</b> damage
+[ 2012.08.30 04:08:07 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>3458</b> damage
+[ 2012.08.30 04:08:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1219</b> damage
+[ 2012.08.30 04:08:16 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1589</b> damage
+[ 2012.08.30 04:08:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1466</b> damage
+[ 2012.08.30 04:08:20 ] (notify) Drones engaging Centum Loyal Torturer
+[ 2012.08.30 04:08:20 ] (notify) Drones engaging Centum Loyal Torturer
+[ 2012.08.30 04:08:20 ] (notify) Drones engaging Centum Loyal Torturer
+[ 2012.08.30 04:08:21 ] (notify) Drones engaging Centum Loyal Torturer
+[ 2012.08.30 04:08:22 ] (notify) 800mm Repeating Artillery II has run out of charges
+[ 2012.08.30 04:08:23 ] (notify) Loading the Projectile Ammo into the Projectile Weapon; this will take approximately 10,00 seconds.
+[ 2012.08.30 04:08:23 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>50</b> damage
+[ 2012.08.30 04:08:23 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>30</b> damage
+[ 2012.08.30 04:08:23 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>56</b> damage
+[ 2012.08.30 04:08:23 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>28</b> damage
+[ 2012.08.30 04:08:27 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>22</b> damage
+[ 2012.08.30 04:08:27 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>57</b> damage
+[ 2012.08.30 04:08:27 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>36</b> damage
+[ 2012.08.30 04:08:27 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>20</b> damage
+[ 2012.08.30 04:08:31 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>42</b> damage
+[ 2012.08.30 04:08:31 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>26</b> damage
+[ 2012.08.30 04:08:31 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>55</b> damage
+[ 2012.08.30 04:08:31 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>28</b> damage
+[ 2012.08.30 04:08:33 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1324</b> damage
+[ 2012.08.30 04:08:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>46</b> damage
+[ 2012.08.30 04:08:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>53</b> damage
+[ 2012.08.30 04:08:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>47</b> damage
+[ 2012.08.30 04:08:35 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>43</b> damage
+[ 2012.08.30 04:08:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1102</b> damage
+[ 2012.08.30 04:08:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>58</b> damage
+[ 2012.08.30 04:08:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>51</b> damage
+[ 2012.08.30 04:08:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>49</b> damage
+[ 2012.08.30 04:08:39 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>31</b> damage
+[ 2012.08.30 04:08:41 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1143</b> damage
+[ 2012.08.30 04:08:43 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>28</b> damage
+[ 2012.08.30 04:08:43 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>57</b> damage
+[ 2012.08.30 04:08:43 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>31</b> damage
+[ 2012.08.30 04:08:43 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>23</b> damage
+[ 2012.08.30 04:08:45 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1670</b> damage
+[ 2012.08.30 04:08:49 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>36</b> damage
+[ 2012.08.30 04:08:49 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>54</b> damage
+[ 2012.08.30 04:08:49 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>36</b> damage
+[ 2012.08.30 04:08:49 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:08:49 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1757</b> damage
+[ 2012.08.30 04:08:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2567</b> damage
+[ 2012.08.30 04:08:52 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>27</b> damage
+[ 2012.08.30 04:08:52 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>57</b> damage
+[ 2012.08.30 04:08:52 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>28</b> damage
+[ 2012.08.30 04:08:52 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:08:54 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1871</b> damage
+[ 2012.08.30 04:08:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>54</b> damage
+[ 2012.08.30 04:08:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>40</b> damage
+[ 2012.08.30 04:08:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>48</b> damage
+[ 2012.08.30 04:08:56 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:08:57 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2235</b> damage
+[ 2012.08.30 04:09:00 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>23</b> damage
+[ 2012.08.30 04:09:00 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>42</b> damage
+[ 2012.08.30 04:09:00 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:00 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>46</b> damage
+[ 2012.08.30 04:09:02 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>518</b> damage
+[ 2012.08.30 04:09:04 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>22</b> damage
+[ 2012.08.30 04:09:04 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>27</b> damage
+[ 2012.08.30 04:09:04 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>34</b> damage
+[ 2012.08.30 04:09:04 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>38</b> damage
+[ 2012.08.30 04:09:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>557</b> damage
+[ 2012.08.30 04:09:08 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:08 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>24</b> damage
+[ 2012.08.30 04:09:08 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>44</b> damage
+[ 2012.08.30 04:09:08 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>21</b> damage
+[ 2012.08.30 04:09:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>770</b> damage
+[ 2012.08.30 04:09:12 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>27</b> damage
+[ 2012.08.30 04:09:12 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>37</b> damage
+[ 2012.08.30 04:09:12 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:12 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>43</b> damage
+[ 2012.08.30 04:09:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>656</b> damage
+[ 2012.08.30 04:09:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>953</b> damage
+[ 2012.08.30 04:09:16 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>26</b> damage
+[ 2012.08.30 04:09:16 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>50</b> damage
+[ 2012.08.30 04:09:16 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>26</b> damage
+[ 2012.08.30 04:09:16 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:18 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Fiend for <b>1364</b> damage
+[ 2012.08.30 04:09:20 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>40</b> damage
+[ 2012.08.30 04:09:20 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>23</b> damage
+[ 2012.08.30 04:09:20 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>33</b> damage
+[ 2012.08.30 04:09:20 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>45</b> damage
+[ 2012.08.30 04:09:24 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>44</b> damage
+[ 2012.08.30 04:09:24 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>40</b> damage
+[ 2012.08.30 04:09:24 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:24 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:28 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>38</b> damage
+[ 2012.08.30 04:09:28 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>40</b> damage
+[ 2012.08.30 04:09:28 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>45</b> damage
+[ 2012.08.30 04:09:28 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>37</b> damage
+[ 2012.08.30 04:09:28 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>559</b> damage
+[ 2012.08.30 04:09:28 ] (notify) Centum Loyal Torturer is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:09:31 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>725</b> damage
+[ 2012.08.30 04:09:32 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>34</b> damage
+[ 2012.08.30 04:09:32 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>34</b> damage
+[ 2012.08.30 04:09:32 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>32</b> damage
+[ 2012.08.30 04:09:32 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>22</b> damage
+[ 2012.08.30 04:09:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>665</b> damage
+[ 2012.08.30 04:09:36 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>55</b> damage
+[ 2012.08.30 04:09:36 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>42</b> damage
+[ 2012.08.30 04:09:36 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>45</b> damage
+[ 2012.08.30 04:09:36 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>20</b> damage
+[ 2012.08.30 04:09:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>609</b> damage
+[ 2012.08.30 04:09:40 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:40 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>25</b> damage
+[ 2012.08.30 04:09:40 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:40 ] (combat) Curator I misses Centum Loyal Torturer
+[ 2012.08.30 04:09:41 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>838</b> damage
+[ 2012.08.30 04:09:44 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>50</b> damage
+[ 2012.08.30 04:09:44 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>53</b> damage
+[ 2012.08.30 04:09:44 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>25</b> damage
+[ 2012.08.30 04:09:44 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>46</b> damage
+[ 2012.08.30 04:09:44 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>1113</b> damage
+[ 2012.08.30 04:09:47 ] (notify) Centum Loyal Torturer is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:09:48 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>36</b> damage
+[ 2012.08.30 04:09:48 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>30</b> damage
+[ 2012.08.30 04:09:48 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>36</b> damage
+[ 2012.08.30 04:09:48 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>30</b> damage
+[ 2012.08.30 04:09:48 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>447</b> damage
+[ 2012.08.30 04:09:51 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>619</b> damage
+[ 2012.08.30 04:09:52 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>56</b> damage
+[ 2012.08.30 04:09:52 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>53</b> damage
+[ 2012.08.30 04:09:52 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>41</b> damage
+[ 2012.08.30 04:09:52 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>23</b> damage
+[ 2012.08.30 04:09:55 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>381</b> damage
+[ 2012.08.30 04:09:56 ] (combat) <color=0xff66bb00>Curator I hits Centum Loyal Torturer for <b>28</b> damage
+[ 2012.08.30 04:09:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>38</b> damage
+[ 2012.08.30 04:09:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>38</b> damage
+[ 2012.08.30 04:09:56 ] (combat) <color=0xff99bb00>Curator I hits Centum Loyal Torturer for <b>40</b> damage
+[ 2012.08.30 04:09:58 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centum Loyal Torturer for <b>1510</b> damage
+[ 2012.08.30 04:09:58 ] (notify) You cannot activate that module as the target is no longer present.
+[ 2012.08.30 04:10:10 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1206</b> damage
+[ 2012.08.30 04:10:13 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1185</b> damage
+[ 2012.08.30 04:10:16 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1350</b> damage
+[ 2012.08.30 04:10:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1434</b> damage
+[ 2012.08.30 04:10:22 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1433</b> damage
+[ 2012.08.30 04:10:26 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1531</b> damage
+[ 2012.08.30 04:10:29 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1295</b> damage
+[ 2012.08.30 04:10:32 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>971</b> damage
+[ 2012.08.30 04:10:35 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1216</b> damage
+[ 2012.08.30 04:10:38 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>1381</b> damage
+[ 2012.08.30 04:10:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Dread Lord for <b>2908</b> damage
+[ 2012.08.30 04:10:47 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1439</b> damage
+[ 2012.08.30 04:10:50 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:50 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:50 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:50 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1306</b> damage
+[ 2012.08.30 04:10:51 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:51 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:51 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:51 ] (notify) Drones engaging Centus Tyrant
+[ 2012.08.30 04:10:53 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>919</b> damage
+[ 2012.08.30 04:10:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>47</b> damage
+[ 2012.08.30 04:10:54 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>46</b> damage
+[ 2012.08.30 04:10:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>103</b> damage
+[ 2012.08.30 04:10:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>105</b> damage
+[ 2012.08.30 04:10:56 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1283</b> damage
+[ 2012.08.30 04:10:58 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>52</b> damage
+[ 2012.08.30 04:10:58 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>90</b> damage
+[ 2012.08.30 04:10:58 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>74</b> damage
+[ 2012.08.30 04:10:58 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>57</b> damage
+[ 2012.08.30 04:10:59 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1041</b> damage
+[ 2012.08.30 04:11:02 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>73</b> damage
+[ 2012.08.30 04:11:02 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>45</b> damage
+[ 2012.08.30 04:11:02 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>75</b> damage
+[ 2012.08.30 04:11:02 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>65</b> damage
+[ 2012.08.30 04:11:03 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1012</b> damage
+[ 2012.08.30 04:11:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>46</b> damage
+[ 2012.08.30 04:11:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>99</b> damage
+[ 2012.08.30 04:11:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>77</b> damage
+[ 2012.08.30 04:11:06 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>99</b> damage
+[ 2012.08.30 04:11:06 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1139</b> damage
+[ 2012.08.30 04:11:09 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1267</b> damage
+[ 2012.08.30 04:11:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>90</b> damage
+[ 2012.08.30 04:11:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>77</b> damage
+[ 2012.08.30 04:11:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>59</b> damage
+[ 2012.08.30 04:11:10 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>75</b> damage
+[ 2012.08.30 04:11:12 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1284</b> damage
+[ 2012.08.30 04:11:14 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>38</b> damage
+[ 2012.08.30 04:11:14 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>107</b> damage
+[ 2012.08.30 04:11:14 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>60</b> damage
+[ 2012.08.30 04:11:14 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>62</b> damage
+[ 2012.08.30 04:11:15 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2732</b> damage
+[ 2012.08.30 04:11:18 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>116</b> damage
+[ 2012.08.30 04:11:18 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>151</b> damage
+[ 2012.08.30 04:11:18 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>151</b> damage
+[ 2012.08.30 04:11:18 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>75</b> damage
+[ 2012.08.30 04:11:19 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2234</b> damage
+[ 2012.08.30 04:11:23 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>939</b> damage
+[ 2012.08.30 04:11:26 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>83</b> damage
+[ 2012.08.30 04:11:26 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>39</b> damage
+[ 2012.08.30 04:11:26 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>48</b> damage
+[ 2012.08.30 04:11:26 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>57</b> damage
+[ 2012.08.30 04:11:26 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1349</b> damage
+[ 2012.08.30 04:11:30 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>836</b> damage
+[ 2012.08.30 04:11:30 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>73</b> damage
+[ 2012.08.30 04:11:30 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>62</b> damage
+[ 2012.08.30 04:11:30 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>39</b> damage
+[ 2012.08.30 04:11:30 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>50</b> damage
+[ 2012.08.30 04:11:33 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1017</b> damage
+[ 2012.08.30 04:11:34 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>47</b> damage
+[ 2012.08.30 04:11:34 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>98</b> damage
+[ 2012.08.30 04:11:34 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>94</b> damage
+[ 2012.08.30 04:11:34 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>73</b> damage
+[ 2012.08.30 04:11:36 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>777</b> damage
+[ 2012.08.30 04:11:38 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>99</b> damage
+[ 2012.08.30 04:11:38 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>104</b> damage
+[ 2012.08.30 04:11:38 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>69</b> damage
+[ 2012.08.30 04:11:38 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>61</b> damage
+[ 2012.08.30 04:11:39 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1166</b> damage
+[ 2012.08.30 04:11:40 ] (notify) Centus Tyrant is too far away to use your True Sansha Heavy Nosferatu on, it needs to be closer than 30.000 meters.
+[ 2012.08.30 04:11:42 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>88</b> damage
+[ 2012.08.30 04:11:42 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>76</b> damage
+[ 2012.08.30 04:11:42 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>93</b> damage
+[ 2012.08.30 04:11:42 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>85</b> damage
+[ 2012.08.30 04:11:42 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1339</b> damage
+[ 2012.08.30 04:11:45 ] (combat) <color=0xff66bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>850</b> damage
+[ 2012.08.30 04:11:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>104</b> damage
+[ 2012.08.30 04:11:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>75</b> damage
+[ 2012.08.30 04:11:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>102</b> damage
+[ 2012.08.30 04:11:46 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>75</b> damage
+[ 2012.08.30 04:11:49 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1094</b> damage
+[ 2012.08.30 04:11:50 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>113</b> damage
+[ 2012.08.30 04:11:50 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>113</b> damage
+[ 2012.08.30 04:11:50 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>48</b> damage
+[ 2012.08.30 04:11:50 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>99</b> damage
+[ 2012.08.30 04:11:52 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>1166</b> damage
+[ 2012.08.30 04:11:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>185</b> damage
+[ 2012.08.30 04:11:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>213</b> damage
+[ 2012.08.30 04:11:54 ] (combat) <color=0xff66bb00>Curator I hits Centus Tyrant for <b>102</b> damage
+[ 2012.08.30 04:11:54 ] (combat) <color=0xff99bb00>Curator I hits Centus Tyrant for <b>135</b> damage
+[ 2012.08.30 04:11:55 ] (combat) <color=0xff99bb00>Group of 800mm Repeating Artillery II strikes Centus Tyrant for <b>2985</b> damage
+[ 2012.08.30 04:12:04 ] (notify) Loading the Projectile Ammo into the Projectile Weapon; this will take approximately 10,00 seconds.
+[ 2012.08.30 04:17:39 ] (notify) Ship stopping
+[ 2012.08.30 04:19:02 ] (None) Jumping to KH0Z-0 in KB-U56 solar system
