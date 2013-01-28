@@ -10,12 +10,19 @@ $p = $_POST;
 
 isset($p['preset']) ? $preset = $p['preset'] : $preset="";
 
+// =================
+// FILTRO DE WALLET
+// =================
 // Trabalhar com Master Wallet por padrao
+
 $accountKey = 1000;
 if($preset!="ratter" && isset($p['accountKey']) && $p['accountKey']>=1000 && $p['accountKey'] <=1006)
     $accountKey = $p['accountKey'];
 
-// Intervalo de datas
+// =================
+// FILTRO DE DATAS
+// =================
+
 $dateIni = "";
 $where_dateIni = "";
 $split_timeIni = "";
@@ -61,16 +68,6 @@ if(isset($p['piloto']))
 }
 
 // =================
-// PRESETS
-// =================
-$where_refTypeID = "";
-if($preset=="ratter")
-{
-    // refTypeID deve ser 85 - somente bounties
-    $where_refTypeID = " AND wj.refTypeID=85";
-}
-
-// =================
 // walletdivisions: ARRAY E OPTIONS
 // =================
 $arrWalletDivisions = array();
@@ -95,6 +92,7 @@ while($linha = mysql_fetch_assoc($res))
 // =================
 
 $refType="";
+$where_refTypeID = "";
 if(isset($p['refType']) && is_numeric($p['refType']))
 {
     $refType=$p['refType'];
@@ -154,6 +152,16 @@ while($linha = mysql_fetch_assoc($res))
     $tr .= "<td>" . number_format($linha['amount'],2,".",",")  ."</td>\r\n";
     
     $tr .= "<td>" . number_format($linha['balance'],2,".",",") ."</td>\r\n";
+    
+    $tr .= "<td>" . $linha['argName1'] ."</td>\r\n";
+    
+    $reason = str_replace("DESC: ", "", $linha['reason']);
+    if(strlen($linha['reason'])>20)
+    {
+         
+        $reason = substr($reason, 0, 19) . " <a title='" . $reason . "'>(...)</a>";
+    }
+    $tr .= "<td>" . $reason ."</td>\r\n";
        
     $tr .= "</tr>\r\n";
     
@@ -168,64 +176,20 @@ $thead_all .= "<tr>\r\n";
 
 $thead_all .= "<th>Date</th>\r\n";
 $thead_all .= "<th>Tipo</th>\r\n";
-$thead_all .= "<th>Origem</th>\r\n";
-$thead_all .= "<th>Destino</th>\r\n";
+$thead_all .= "<th width='150'>Origem</th>\r\n";
+$thead_all .= "<th width='150'>Destino</th>\r\n";
 $thead_all .= "<th>Amount</th>\r\n";
 $thead_all .= "<th>Balance</th>\r\n";
+$thead_all .= "<th width='100'>O que/Onde</th>\r\n";
+$thead_all .= "<th>Reason</th>\r\n";
 
 
 $thead_all .= "</tr>\r\n";
 $thead_all .= "</thead>\r\n";
 
-
-// ==========================
-// GERACAO DA TABELA OWNER1
-// ==========================
-
-$query  = "SELECT ownerName1, sum(amount) as amount";
-$query .= " FROM walletjournal wj";
-$query .= " WHERE accountKey = $accountKey";
-$query .= $where_dateIni;
-$query .= $where_dateFim;
-$query .= $where_piloto;
-$query .= " GROUP BY ownerName1";
-
-
-$res = mysql_query($query,$conn) or die(mysql_error());
-
-$tr = "";
-
-$a=0;
-$total_owner1 = 0;
-
-while($linha = mysql_fetch_assoc($res))
-{
-    $tr .= "<tr>\r\n";
-    
-    $tr .= "<td>" . $linha['ownerName1'] ."</td>\r\n";
-    $tr .= "<td>" . number_format($linha['amount'],2,".",",") . "</td>\r\n";
-      
-    $tr .= "</tr>\r\n";
-    
-    $total_owner1 += $linha['amount'];
-    $a++;
-}
-
-$tbody_owner1 = "<tbody>\r\n" . $tr . "</tbody>\r\n";
-
-$thead_owner1 = "<thead>\r\n";
-$thead_owner1 .= "<tr>\r\n";
-
-$thead_owner1 .= "<th>Name</th>\r\n";
-$thead_owner1 .= "<th>Amount</th>\r\n";
-
-
-$thead_owner1 .= "</tr>\r\n";
-$thead_owner1 .= "</thead>\r\n";
-
 ?>
 
-<link rel="stylesheet" type="text/css" href="jquery/tablesorter/themes/blue/style.css" />
+<link rel="stylesheet" type="text/css" href="jquery/tablesorter/themes/ponto/style.css" />
 
 <script src="jquery/jquery.js"></script>
 <script src="jquery/tablesorter/jquery.tablesorter.min.js"></script>
@@ -314,6 +278,7 @@ $(document).ready(function(){
         minLength: 2
     });
 
+    //$( document ).tooltip();
 });
  </script>
  
@@ -351,14 +316,6 @@ span.deleteicon input {
 <form action="<?= $_SERVER['SCRIPT_NAME']; ?>" method="post" name="filter">
 
 <div class="divField">
-<label for="preset">Presets</label>
-<select name="preset">
-    <option value=""></option>
-    <option value="ratter">Ratter</option>
-</select>
-</div>
-
-<div class="divField">
 <label for="accountKey">Wallet</label>
 <select name="accountKey"><option value=""></option><?= $optWalletDivisions?></select>
 </div>
@@ -391,10 +348,4 @@ span.deleteicon input {
         <?= $tbody_all?>
     </table>
 
-
-
-<table id="tableOwner1" class="tablesorter" style="width: 350px">
-    <?= $thead_owner1?>    
-    <?= $tbody_owner1?>
-</table>
-
+<a   alt="teste">trorlolo</a>
