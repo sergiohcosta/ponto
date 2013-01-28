@@ -1,16 +1,7 @@
 <?php
 
-// =================
-// FILTRO DE PILOTOS
-// =================
-
-$piloto = "";
-$where_piloto = "";
-if(isset($p['piloto']))
-{
-    $piloto = $p['piloto'];
-    $where_piloto = " AND (ownername1 LIKE '%" . $piloto . "%' OR ownername2 LIKE '%" . $piloto . "%')";
-}
+// encurtando a $_POST por motivos de preguica
+$p = $_POST;
 
 // =================
 // INTERVALO DE DATAS
@@ -57,13 +48,13 @@ $query .= " FROM walletjournal wj";
 $query .= " WHERE refTypeID=85 AND accountKey = 1000";
 $query .= $where_dateIni;
 $query .= $where_dateFim;
-$query .= $where_piloto;
 $query .= " GROUP BY ownerName2";
 $query .= " ORDER BY amount DESC";
 
 $conn = mysql_connect("localhost","root") or die(mysql_error());
 mysql_select_db('eve',$conn) or die(mysql_error());
 
+echo $query;
 $res = mysql_query($query,$conn) or die(mysql_error());
 
 $tr = "";
@@ -99,7 +90,96 @@ $thead_owner2 .= "</thead>\r\n";
 
 ?>
 
+<link rel="stylesheet" type="text/css" href="jquery/tablesorter/themes/blue/style.css" />
+
+<script src="jquery/jquery.js"></script>
+<script src="jquery/tablesorter/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" src="jquery/ui/js/jquery-ui-1.8.23.custom.min.js"></script>
+<link type="text/css" href="jquery/ui/css/redmond/jquery-ui-1.8.23.custom.css" rel="Stylesheet" />
+
+<script type="text/javascript" src="jquery/ui/js/jquery-ui-timepicker-addon.js"></script>
+
+<script>
+jQuery.tablesorter.addParser({
+  id: "commaDigit",
+  is: function(s, table) {
+    var c = table.config;
+    return jQuery.tablesorter.isDigit(s.replace(/,/g, ""), c);
+  },
+  format: function(s) {
+    return jQuery.tablesorter.formatFloat(s.replace(/,/g, ""));
+  },
+  type: "numeric"
+});
+
+$(document).ready(function(){
+   
+   $("#tableOwner2").tablesorter(
+   {
+       widgets: ['zebra'],
+       sortList: [[1,1]],
+       headers:{
+           1: {sorter:'commaDigit'}
+       }
+   });
+   
+   $( "#dateIni" ).datetimepicker({
+        
+        hourGrid: 4,
+        minuteGrid: 15,
+        dateFormat: "dd/mm/yy",
+        changeMonth: true,
+        changeYear: true,
+        dayNamesShort: ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],
+        dayNamesMin: ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],
+        dayNames: ["Domingo","Segunda","Terça","Quarta","Quinta","Sexta","Sábado"]
+        
+   });
+   
+   $( "#dateFim" ).datetimepicker({
+        hourGrid: 4,
+        minuteGrid: 15,
+        dateFormat: "dd/mm/yy",
+        changeMonth: true,
+        changeYear: true,
+        dayNamesShort: ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],
+        dayNamesMin: ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],
+        dayNames: ["Domingo","Segunda","Terça","Quarta","Quinta","Sexta","Sábado"]
+   });
+   
+   
+   
+    $('#dateIni').wrap('<span class="deleteicon" />').after($('<span/>').click(function() {
+            $(this).prev('input').val('').focus();
+    }));
+    
+    $('#dateFim').wrap('<span class="deleteicon" />').after($('<span/>').click(function() {
+            $(this).prev('input').val('').focus();
+    }));
+    
+});
+ </script>
+
+<form action="<?= $_SERVER['SCRIPT_NAME']; ?>" method="post" name="filter">
+
+<div class="divField">
+<label for="dateIni">Data Inicio</label>
+<input type="text" id="dateIni" name="dateIni" value="<?= $dateIni?>">
+</div>
+
+<div class="divField">
+<label for="dateIni">Data Fim</label>
+<input type="text" id="dateFim" name="dateFim" value="<?= $dateFim?>">
+</div>
+
+<input type="submit" value="Vai!">
+
+</form>
+
 <table id="tableOwner2" class="tablesorter" style="width: 350px">
     <?= $thead_owner2?>    
     <?= $tbody_owner2?>
 </table>
+ 
+ <b>Total:</b> <?= $total_owner2?>
