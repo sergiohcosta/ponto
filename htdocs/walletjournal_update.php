@@ -64,6 +64,33 @@ function XmlToBD($xml,$conexao)
 $conn = mysql_connect("localhost","root") or die(mysql_error());
 mysql_select_db('eve',$conn) or die(mysql_error());
 
+$query = "SELECT last,next FROM api_cache WHERE nome = 'walletjournal'";
+$result = mysql_query($query, $conn);
+$datas = mysql_fetch_assoc($result);
+
+$dataNow = new DateTime();
+$dataNow->setTimezone(new DateTimeZone('Europe/London'));
+
+$expDate = '/\\A(?:^((\\d{2}(([02468][048])|([13579][26]))[\\-\\/\\s]?((((0?[13578])|(1[02]))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])))))|(\\d{2}(([02468][1235679])|([13579][01345789]))[\\-\\/\\s]?((((0?[13578])|(1[02]))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(3[01])))|(((0?[469])|(11))[\\-\\/\\s]?((0?[1-9])|([1-2][0-9])|(30)))|(0?2[\\-\\/\\s]?((0?[1-9])|(1[0-9])|(2[0-8]))))))(\\s(((0?[0-9])|(1[0-9])|(2[0-3]))\\:([0-5][0-9])((\\s)|(\\:([0-5][0-9])))?))?$)\\z/';
+
+if (preg_match($expDate, $datas["next"])) // se a data puxada do banco for valida ...
+{
+    $dataLast = new DateTime($datas["last"],new DateTimeZone('Europe/London'));
+    $dataNext = new DateTime($datas["next"],new DateTimeZone('Europe/London'));
+    $dataDiff = $dataNow->diff($dataNext);
+
+    if( ($dataNow < $dataNext) ) // se 'agora' for antes de 'next' ...
+    {
+        echo "<br> Horario do servidor: " . $dataNow->format('d-m-Y H:i:s');
+        echo "<br> Horario da proxima atualizacao de API: " . $dataNext->format('d-m-Y H:i:s');
+        echo "<br> " . $dataDiff->format("%y anos, %m meses, %d dias, %h horas, %i minutos, %s segundos restando.");
+        echo "<br> Nenhuma alteracao a ser feita.";
+        echo "<br> Encerrando.";
+
+        exit();
+    }
+}
+
 $rowCount = 1500;
 
 $accountKey = 1000;
@@ -85,27 +112,29 @@ $a=0;
 do{
     $url = $url_usada;
     if(isset($retorno)) $url=$url_usada . "&fromID=" . $retorno;
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
     
-    $xml = simplexml_load_file($url);
-    $retorno = XmlToBD($xml,$conn);
+    $result = curl_exec($ch);
+    curl_close($ch);
+    
+    $xml = new SimpleXMLElement($result);
+    // $xml = simplexml_load_file($url) or die("<br>Erro ao carregar a API usando a url $url. Encerrando.<br>");
+    
+    $retorno = XmlToBD($xml,$conn);    
 } while ($a==$rowCount);
 
-echo "data desta consulta: " . $xml->currentTime . "<br>";
-echo "$registros registros encontrados na API <br>";
-echo "$affected registros criados/alterados<br>";
-echo "registro mais antigo encontrado: $retorno <br>";
-echo "proximo update de api: " . $xml->cachedUntil;
+echo "<br> data desta consulta: " . $xml->currentTime;
+echo "<br> $registros registros encontrados na API";
+echo "<br> $affected registros criados/alterados";
+echo "<br> proximo update de api: " . $xml->cachedUntil;
 
-// So processar a API caso o cache ja tenha expirado
-// esta logica precisa ser acertada, nao funciona deste jeito
+$query = "UPDATE api_cache SET last='" . $xml->currentTime . "',next='" . $xml->cachedUntil . "' WHERE nome='walletjournal'";
+if(mysql_query($query,$conn)) echo "<br>Informacoes de cache de API atualizadas.";
 
-/*
-$cache = $xml->cachedUntil;
-$objCache = new DateTime($cache);
-$objData = new DateTime();
-$diff = $objData->diff($objCache);
-$tot = ($diff->s) + ($diff->i*60) + ($diff->h*3600) + ($diff->d*86400) + ($diff->m*2592000) + ($diff->y*31104000);
-
- if($tot>=0) die("Sem necessidade de atualizacao da base. Prox atualizacao: $cache");
- */
+echo "<br>Encerrando";
 ?>
