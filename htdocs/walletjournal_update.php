@@ -112,6 +112,8 @@ $a=0;
 do{
     $url = $url_usada;
     if(isset($retorno)) $url=$url_usada . "&fromID=" . $retorno;
+    
+    echo $url . "<br>";
 
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
@@ -122,19 +124,31 @@ do{
     $result = curl_exec($ch);
     curl_close($ch);
     
-    $xml = new SimpleXMLElement($result);
-    // $xml = simplexml_load_file($url) or die("<br>Erro ao carregar a API usando a url $url. Encerrando.<br>");
+    if($result!=FALSE){
+        $xml = new SimpleXMLElement($result);
+        // $xml = simplexml_load_file($url) or die("<br>Erro ao carregar a API usando a url $url. Encerrando.<br>");
+        
+        $retorno = XmlToBD($xml,$conn);
+    }
+
+} while ($a==$rowCount && $result != FALSE);
+
+if($result != FALSE)
+{
+    echo "<br> data desta consulta: " . $xml->currentTime;
+    echo "<br> $registros registros encontrados na API";
+    echo "<br> $affected registros criados/alterados";
+    echo "<br> proximo update de api: " . $xml->cachedUntil;
+
+    $query = "UPDATE api_cache SET last='" . $xml->currentTime . "',next='" . $xml->cachedUntil . "' WHERE nome='walletjournal'";
+    echo $query . "<br>";
     
-    $retorno = XmlToBD($xml,$conn);    
-} while ($a==$rowCount);
-
-echo "<br> data desta consulta: " . $xml->currentTime;
-echo "<br> $registros registros encontrados na API";
-echo "<br> $affected registros criados/alterados";
-echo "<br> proximo update de api: " . $xml->cachedUntil;
-
-$query = "UPDATE api_cache SET last='" . $xml->currentTime . "',next='" . $xml->cachedUntil . "' WHERE nome='walletjournal'";
-if(mysql_query($query,$conn)) echo "<br>Informacoes de cache de API atualizadas.";
+    if(mysql_query($query,$conn)) echo "<br>Informacoes de cache de API atualizadas.";
+}
+else
+{
+    echo "Ocorreram erros na consulta a API.";
+}
 
 echo "<br>Encerrando";
 ?>

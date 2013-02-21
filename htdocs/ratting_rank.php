@@ -7,9 +7,13 @@ $p = $_POST;
 // INTERVALO DE DATAS
 // =================
 
+$dataNow = new DateTime();
+$dataNow->setTimezone(new DateTimeZone('Europe/London'));
+
 $dateIni = "";
 $where_dateIni = "";
 $split_timeIni = "";
+
 if(isset($p['dateIni']) && $p['dateIni']!="")
 {
     $dateIni = $p['dateIni'];
@@ -21,11 +25,19 @@ if(isset($p['dateIni']) && $p['dateIni']!="")
     $arr_split_dateIni = explode("/",$split_dateIni);
     
     $where_dateIni = " AND date >= '" . $arr_split_dateIni[2] . "-" . $arr_split_dateIni[1] . "-" . $arr_split_dateIni[0] . $split_timeIni . "'";
+} 
+else { // caso a a data inicial nao seja fornecida, usar intervalo de uma semana (P7D) da data atual do servidor
+    $dateIni = new DateTime();
+    $dateIni->setTimezone(new DateTimeZone('Europe/London'));
+    $dateIni->sub(new DateInterval('P7D'));
+    $where_dateIni = " AND date >= '" . $dateIni->format('Y-m-d H:i:s') . "'";
+    $dateIni = $dateIni->format('d/m/Y H:i:s');
 }
 
 $dateFim = "";
 $where_dateFim = "";
 $split_timeFim = "";
+
 if(isset($p['dateFim']) && $p['dateFim']!="")
 {
     $dateFim = $p['dateFim'];
@@ -37,6 +49,12 @@ if(isset($p['dateFim']) && $p['dateFim']!="")
     $arr_split_dateFim = explode("/",$split_dateFim);
     
     $where_dateFim = " AND date <= '" . $arr_split_dateFim[2] . "-" . $arr_split_dateFim[1] . "-" . $arr_split_dateFim[0] . $split_timeFim . "'";
+}
+else { // caso a a data final nao seja fornecida, usar data atual do servidor
+    $dateFim = new DateTime();
+    $dateFim->setTimezone(new DateTimeZone('Europe/London'));
+    $where_dateFim = " AND date <= '" . $dateFim->format('Y-m-d H:i:s') . "'";
+    $dateFim = $dateFim->format('d/m/Y H:i:s');
 }
 
 // ==========================
